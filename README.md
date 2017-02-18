@@ -1,4 +1,4 @@
-Please go through the following IPthon Notebook first which details the theory and presents the results for the Windy Grid World (No Importance Sampling Ratio):
+Please go through the following IPython Notebook first which details the theory and presents the results for the Windy Grid World (No Importance Sampling Ratio):
 
 https://github.com/rllabmcgill/rlcourse-february-17-Pulkit-Khandelwal/blob/master/n_step_windy_grid.ipynb
 
